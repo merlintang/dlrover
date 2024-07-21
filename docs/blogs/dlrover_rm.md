@@ -177,3 +177,6 @@ the use of shared memory to store checkpoints.
 
 <text>Figure 7: Handle Hot PS</text>
 </div>
+
+## More details: 
+[Full Version](https://arxiv.org/abs/2304.01468)
